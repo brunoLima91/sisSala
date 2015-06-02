@@ -48,7 +48,7 @@
 			<div class="input-group-addon">Cpf</div><input
 			    class="form-control" placeholder="Cpf" 
 			    type="text" name="cpf"
-			    value="<c:out value="${user.cpf}" />" />
+			    value="<c:out value="${user.CPF}" />" />
 		    </div>  <br />
 			
 			<div  id="input" class="input-group" >
