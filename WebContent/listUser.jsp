@@ -6,18 +6,25 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
+<link href="css/bootstrap.css" rel="stylesheet"> 
+<script src="js/bootstrap.js" type="text/javascript"></script>
+<script src="WebContent/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="WebContent/css/bootstrap.min.css" type="text/javascript"></script>
+
 <title>Lista de Usuarios</title>
 </head>
 <body>
     <table border=1>
         <thead>
-            <tr>                
-                <th>Login</th>
-                <th>Senha</th>
-                <th>CPF</th>
-                <th>Data de Nascimento</th>
-                <th>Email</th>
-                <th colspan=2>A豫o</th>
+        	<br /> 
+            
+            <tr class="info">    
+                <th>&nbsp;&nbsp;Login&nbsp;&nbsp;</th>
+                <th>&nbsp;&nbsp;Senha&nbsp;&nbsp;</th>
+                <th>&nbsp;&nbsp;CPF&nbsp;&nbsp;</th>
+                <th>&nbsp;&nbsp;Data de Nascimento&nbsp;&nbsp;</th>
+                <th>&nbsp;&nbsp;Email&nbsp;&nbsp;</th>
+                <th colspan=2>&nbsp;&nbsp;A豫o&nbsp;&nbsp;</th>
             </tr>
         </thead>
         <tbody>

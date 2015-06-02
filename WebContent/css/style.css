@@ -1,0 +1,13 @@
+*{overflow: auto; background-color: rgb(122,116,108);}
+
+#input {
+	size:auto;  
+	width: 100%;
+	padding: 2px;
+	
+}
+
+#butao {
+	float: right;
+	padding: 2px;
+}

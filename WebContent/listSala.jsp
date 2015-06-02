@@ -6,15 +6,22 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=EUC-KR">
+<link href="css/bootstrap.css" rel="stylesheet"> 
+<script src="js/bootstrap.js" type="text/javascript"></script>
+<script src="WebContent/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="WebContent/css/bootstrap.min.css" type="text/javascript"></script>
+
+
 <title>Lista de Salas</title>
 </head>
 <body>
     <table border=1>
-        <thead>
-            <tr>                
-                <th>Nome</th>
-                <th>Capacidade</th>                
-                <th colspan=2>A豫o</th>
+	    <thead>
+        	   	 
+            <tr class="info">             
+                <th>&nbsp;&nbsp;Nome&nbsp;&nbsp;</th>
+                <th>&nbsp;&nbsp;Capacidade&nbsp; &nbsp;</th>                
+                <th colspan=2>&nbsp;&nbsp;A豫o &nbsp;&nbsp;</th>
             </tr>
         </thead>
         <tbody>
